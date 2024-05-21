@@ -41,10 +41,10 @@ The dataset used for this project contains historical information about sales fr
 ## Dependencies
 - Python 3.x
 - Pandas
+- SQL
 - NumPy
 - Scikit-Learn
 - Matplotlib
-- auto_arima
 - Jupyter Notebook
 
 ## Data analysis 
