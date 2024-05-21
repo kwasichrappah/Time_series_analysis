@@ -68,7 +68,7 @@ The trained machine learning model can be deployed using the scripts provided. T
 
 <!-- AUTHOR -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="author"></a>
 
 🕵🏽‍♀️ **Emmanuel Chrappah**
 
